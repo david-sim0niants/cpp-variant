@@ -1,5 +1,5 @@
 #include <type_traits>
-#include <exception>
+#include <stdexcept>
 
 
 template<typename ...Variant_Ts> struct VariantHelper;
